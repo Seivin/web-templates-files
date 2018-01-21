@@ -1,4 +1,6 @@
-/* Original content */
+/*
+Original content
+*/
 
 	/* BASE: html, body, p, h1, h2, h3, h4, h5, h6, hr */
 	/* LISTS: ul, ol, li */
@@ -19,8 +21,17 @@
 	/* Navbar */
 	/* Footer */
 	
-/* Bootstrap responsiveness */
+/*
+Bootstrap responsiveness
+https://getbootstrap.com/
+*/
 
-/* Materialize CSS colors */
+/*
+Materialize CSS colors
+http://materializecss.com/
+*/
 
-/* Normalize CSS corrections */
+/*
+Normalize CSS corrections
+https://github.com/necolas/normalize.css/
+*/
