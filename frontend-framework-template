@@ -1,0 +1,26 @@
+/* Original content */
+
+	/* BASE: html, body, p, h1, h2, h3, h4, h5, h6, hr */
+	/* LISTS: ul, ol, li */
+	/* LINKS: a, a:link, a:visited, a:hover, a:active */
+	/* FORMS */
+	
+	/* Buttons */
+	/* Table */
+	/* Cards */
+	/* Badges */
+	/* Breadcrumb */
+	/* Carousel */
+	/* Collapse */
+	/* Dropdowns */
+	/* Modal */
+	/* Pagination */
+	
+	/* Navbar */
+	/* Footer */
+	
+/* Bootstrap responsiveness */
+
+/* Materialize CSS colors */
+
+/* Normalize CSS corrections */
