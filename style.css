@@ -65,7 +65,7 @@ a {
   -webkit-text-decoration-skip: objects;
 }
 
-a:active, a:focus, a:hover,  { /* when the mouse is over it - ? - when it's clicked */
+a:active, a:focus, a:hover { /* when the mouse is over it - ? - when it's clicked */
   color: #64b5f6;
   outline-width: 0;
   text-decoration: underline;
