@@ -1,0 +1,95 @@
+/* Basic CSS template file */
+
+:root {
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+}
+
+html {
+  font-family: sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: #fff; /* background loads faster than background-color */
+  color: #484848;
+  font-family: "Roboto", BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px; /* 14-20 */
+  line-height: 1.5; /* 1.2-1.6 */
+  font-size: medium;
+  font-weight: normal; /* default: normal = 400 */
+  letter-spacing: normal;
+  word-spacing: normal;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+p {
+  display: block;
+  font-family: "Open Sans" !important;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0 0 1rem 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto", BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif; !important;
+}
+
+h1 {
+  display: block;
+  font-size: ;
+  font-weight: ;
+  margin: ;
+  padding: ;
+  line-height: ;
+  letter-spacing: normal;
+  word-spacing: ;
+  -webkit-margin-before: 0.67em; /* .67-1 */
+  -webkit-margin-after: 0.67em; /* .67-1 */
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+
+a {
+  background-color: transparent;
+  color: #2196f3;
+  text-decoration: none;
+  -webkit-text-decoration-skip: objects;
+}
+
+a:active, a:focus, a:hover,  { /* when the mouse is over it - ? - when it's clicked */
+  color: #64b5f6;
+  outline-width: 0;
+  text-decoration: underline;
+}
+
+a:link { /* an unvisited link */
+  transition: all .3s ease-out; 
+  -o-transition: all .3s ease-out;
+  -ms-transition: all .3s ease-out;
+  -moz-transition: all .3s ease-out;
+  -webkit-transition: all .3s ease-out;
+}
+
+a:visited {}
+
+img {
+  border: 0;
+  vertical-align: middle;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #d8dade;
+  box-sizing: content-box;
+  height: 1px;
+  overflow: visible;
+}
