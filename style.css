@@ -31,7 +31,7 @@ body {
 
 p {
   display: block;
-  font-family: "Open Sans" !important;
+  font-family: "Roboto", BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 15px;
   font-style: normal;
   font-weight: 400;
@@ -40,7 +40,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto", BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif; !important;
+  font-family: "Roboto", BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;;
 }
 
 h1 {
