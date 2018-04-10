@@ -1,2 +1,2 @@
 # web
-Up-to-date web templates files (.html, .css, .js, Bootstrap, Materialize CSS).
+Up-to-date web templates files (.html, .css, React).
