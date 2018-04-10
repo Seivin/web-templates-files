@@ -1,2 +1,2 @@
 # web
-Up-to-date web templates files (.html, .css, React).
+Up-to-date web starter files (.html, .css, React).
